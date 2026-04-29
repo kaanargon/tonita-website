@@ -17,3 +17,5 @@ npm run dev
 4. Click Deploy.
 
 Vercel should automatically detect it as a Vite project.
+
+live deploy test
